@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-yvksqx.wedang77win.store/sitemap.xml
